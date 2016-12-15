@@ -1,0 +1,24 @@
+{
+  "name": "node-mysql-module",
+  "version": "1.0.0",
+  "description": "A Node module for performing MySQL queries and transactions.",
+  "main": "./src/mysql.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "mysql": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewein/node-mysql-module.git"
+  },
+  "author": "Eric Wein (ericpwein@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewein/node-mysql-module/issues"
+  },
+  "homepage": "https://github.com/ewein/node-mysql-module#readme"
+}
